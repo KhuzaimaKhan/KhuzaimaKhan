@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Khuzaima Khan - Computer Science graduate with the passion to explore new things new ways and new possibilities everyday.
+I am Khuzaima Khan - Computer Science graduate with passion to explore new things new ways and new possibilities everyday.
 <!--
 **KhuzaimaKhan/KhuzaimaKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
