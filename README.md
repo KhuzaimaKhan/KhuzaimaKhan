@@ -6,7 +6,7 @@ I am Khuzaima Khan - Computer Science graduate with passion to explore new thing
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on finding a job for living.
+- 🔭 I’m currently working at a software house in Karachi.
 - 🌱 I’m currently learning Software Project Management.
 - 💬 Ask me about Data Analysis and Simple Web Development.
 - 📫 How to reach me: [Twitter](https://twitter.com/KhuzaimaKhan26), [LinkedIn](https://www.linkedin.com/in/khuzaimakhan/), [Email](mailto:khuzaimakhan20@gmail.com).
